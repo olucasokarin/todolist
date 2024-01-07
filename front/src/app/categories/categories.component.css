@@ -1,0 +1,18 @@
+
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    display: flex;
+    align-self: center;
+    background-color: #5B73F1;
+    color: white;
+    font-size: 22px;
+    
+    border-radius: 8px;
+    padding: 0.5rem;
+    border: none;
+    margin: 1.5rem 0 0;
+}
